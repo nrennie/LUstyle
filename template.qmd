@@ -3,7 +3,7 @@ title: "My Presentation Title"
 subtitle: "A template file for Quarto revealjs slides"
 author: "Author Name"
 format:
-  LUslides-revealjs:
+  LUstyle-revealjs:
     self-contained: true
 ---
 

@@ -5,7 +5,7 @@ contributes:
   formats: 
     revealjs:
       logo: LUlogo.png
-      theme: LUstyles.scss
+      theme: LUstyle.scss
       height: 900
       width: 1600
       title-slide-attributes:
