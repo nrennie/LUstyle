@@ -1,6 +1,6 @@
 # Lancaster University Quarto Theme
 
-This repository contains a (personal) template for Lancaster University Quarto documents. It includes an extension that can style revealjs slides, and PDF documents.
+This repository contains a (personal) template for Lancaster University Quarto documents. It includes an extension that can style revealjs slides, PDFs, and HTML documents.
 
 ## Installation and use
 
@@ -22,4 +22,10 @@ If you want to use the PDF template instead, set:
 
 ``` yaml
 format: LUstyle-pdf
+```
+
+or for HTML documents:
+
+``` yaml
+format: LUstyle-html
 ```

@@ -10,6 +10,8 @@ contributes:
       width: 1600
       title-slide-attributes:
         data-background-color: "#D9DBDB"
+    html:
+      theme: [default, LUstyle.scss]
     pdf:
       include-in-header: 
        - "LUpdf.tex"
