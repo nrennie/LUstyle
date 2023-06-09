@@ -16,9 +16,9 @@ contributes:
       include-in-header: 
        - "LUpdf.tex"
        - "columns.tex"
-      include-before-body:
-       - "pagestyle.tex"
-      toc: false
+      toc: true
+      toc-depth: 2
+      fontsize: 12pt
       code-block-bg: lightgrey
       linkcolor: LUred
       urlcolor: LUred
