@@ -29,3 +29,23 @@ or for HTML documents:
 ``` yaml
 format: LUstyle-html
 ```
+
+## Examples
+
+### CHICAS Data Visualisation Workshop Slides
+
+GitHub: [github.com/nrennie/chicas-data-viz-workshop](https://github.com/nrennie/chicas-data-viz-workshop)
+
+Slides: [nrennie.github.io/chicas-data-viz-workshop](https://nrennie.github.io/chicas-data-viz-workshop/#/title-slide)
+
+### R/Pharma {tidymodels} Workshop Slides
+
+GitHub: [github.com/nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels)
+
+Slides: [nrennie.github.io/r-pharma-2023-tidymodels](https://nrennie.github.io/r-pharma-2023-tidymodels/#/title-slide)
+
+### Teaching with webR Slides
+
+GitHub: [github.com/nrennie/teaching-with-webR](https://github.com/nrennie/teaching-with-webR)
+
+Slides: [teaching-with-webr.netlify.app/](https://teaching-with-webr.netlify.app/#/title-slide)
