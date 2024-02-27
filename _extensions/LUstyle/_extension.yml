@@ -8,6 +8,7 @@ contributes:
       theme: LUstyle.scss
       height: 900
       width: 1600
+      auto-stretch: false
       title-slide-attributes:
         data-background-color: "#D9DBDB"
     html:
